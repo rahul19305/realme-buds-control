@@ -83,6 +83,10 @@ The `tools` folder has the scripts I used to work out the protocol:
 
 Captures can contain personal data from your phone, so `captures/` is excluded from git.
 
+## License
+
+[MIT](LICENSE)
+
 ## Disclaimer
 
 This is an unofficial project and is not affiliated with or endorsed by realme.
