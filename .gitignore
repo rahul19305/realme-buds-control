@@ -1,0 +1,12 @@
+# Phone captures and bug reports contain personal data
+captures/
+*.zip
+*.log
+*.pklg
+
+# Android platform-tools (download separately)
+platform-tools/
+
+# Local editor/agent settings
+.claude/
+.vscode/
